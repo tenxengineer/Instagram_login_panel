@@ -1,7 +1,4 @@
-# Instagram_login_panel
-
-
-### Repository Name: Instagram Login Page
+Instagram Login Page
 
 #### Description:
 This repository contains the code for a simple Instagram-like login page created using **HTML**, **CSS**, and **JavaScript**. It features a responsive design, allowing users to input their username and password, with a placeholder for login functionality. 
