@@ -24,7 +24,7 @@ The page includes:
 #### Getting Started:
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/instagram-login-page.git
+   git clone https://github.com/tenxengineer/instagram_login_panel.git
    ```
 2. Open `index.html` in your browser to view the login page.
 
